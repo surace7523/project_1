@@ -1,0 +1,40 @@
+<!DOCTYPE>
+
+<html>
+	<head>
+		<title>Insert Product</title>
+	</head>
+
+
+<body bgcolor="green">
+	<form action="insert_prduct.php" method="post" enctype="multipast/form-data">
+
+		<table align="center" width="1000">
+
+			<tr>
+				
+				<td><h2>Insert the products</h2></td>
+
+		     </tr>
+
+
+			<tr>
+				
+				<td>Product Title:</td>
+				<td><input type="text" name="products_Title">></td>>
+
+		     </tr>>
+
+
+
+		</table>
+
+
+	</form>
+
+
+
+</body>
+
+
+</html>
